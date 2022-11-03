@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38a1bd07-de56-4b0d-9e4e-c1b7ef7f81d0" name="Changes" comment="Merge Sort added from desktop" />
+    <list default="true" id="38a1bd07-de56-4b0d-9e4e-c1b7ef7f81d0" name="Changes" comment="Longest Palindrome Subsequence added from desktop" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +27,8 @@
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+      "Python",
+      "PLAIN_TEXT"
     ]
   }
 }]]></component>
@@ -87,7 +88,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667506634058</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Set Matrix Zeros added from desktop">
+      <created>1667506849037</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667506849037</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Rotate Image added from desktop">
+      <created>1667506976139</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667506976139</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Longest Palindrome Subsequence added from desktop">
+      <created>1667507154487</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667507154487</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +130,9 @@
     <MESSAGE value="Remove Dubplicates from Sorted Array added from desktop" />
     <MESSAGE value="Diagonal Sum added from desktop" />
     <MESSAGE value="Merge Sort added from desktop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge Sort added from desktop" />
+    <MESSAGE value="Set Matrix Zeros added from desktop" />
+    <MESSAGE value="Rotate Image added from desktop" />
+    <MESSAGE value="Longest Palindrome Subsequence added from desktop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Longest Palindrome Subsequence added from desktop" />
   </component>
 </project>
