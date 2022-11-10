@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38a1bd07-de56-4b0d-9e4e-c1b7ef7f81d0" name="Changes" comment="Trees: Invert Tree added from desktop">
+    <list default="true" id="38a1bd07-de56-4b0d-9e4e-c1b7ef7f81d0" name="Changes" comment="Trees: Is balance was added from desktop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/jsmichel/Documents/GitHub/LeetCode/Tree_ Invert Tree.py"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/jsmichel/Documents/GitHub/LeetCode/.idea"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -49,6 +50,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jsmichel\Documents\GitHub\LeetCode\.idea" />
       <recent name="C:\Users\jsmichel\Documents\GitHub\LeetCode" />
     </key>
   </component>
@@ -180,7 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668106018444</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Trees: Is balance was added from desktop">
+      <created>1668112743765</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1668112743765</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Trees: Is balance was added from desktop">
+      <created>1668112767038</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1668112767038</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +225,7 @@
     <MESSAGE value="Longest increasing subsequent added from desktop" />
     <MESSAGE value="Trees: Maximum Depth added from desktop" />
     <MESSAGE value="Trees: Invert Tree added from desktop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trees: Invert Tree added from desktop" />
+    <MESSAGE value="Trees: Is balance was added from desktop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trees: Is balance was added from desktop" />
   </component>
 </project>
